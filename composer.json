@@ -1,0 +1,16 @@
+{
+    "name": "phpfreak6/contactform",
+    "description": "Laravel PAckage for contact form",
+    "authors": [
+        {
+            "name": "Nitin",
+            "email": "nitin.kapoor@petcloud.com.au"
+        }
+    ],
+    "require": {},
+	"autoload": {
+            "psr-4": {
+                "phpfreak6\\contactform\\": "src/"
+            }
+        }
+}
